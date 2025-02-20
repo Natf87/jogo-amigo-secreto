@@ -1,5 +1,5 @@
 let listaDeAmigos = []; 
-let nomeDoUsuario;
+
 
 function adicionarAmigo() {
     let nomeAmigo = document.getElementById('amigo').value.trim();
